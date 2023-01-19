@@ -2,8 +2,6 @@ package es.ieslavereda;
 
 import es.ieslavereda.model.*;
 
-//cometn prueba
-
 public class Main {
     public static void main(String[] args) {
 
